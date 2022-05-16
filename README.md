@@ -3,7 +3,7 @@
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/nathanolinto/node-todo
+$ git clone https://github.com/nathanolinto/node-todo.git
 $ cd node-todo
 ```
 
